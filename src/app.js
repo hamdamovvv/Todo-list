@@ -73,5 +73,5 @@ todos.addEventListener('click', del)
 
 
 setTimeout(() => {
-    console.log('ahmad loh')
+    console.log('Hello world')
 }, 10000)
